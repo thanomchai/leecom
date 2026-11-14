@@ -1,0 +1,14 @@
+import type { Metadata } from "next";
+import { AuthForm } from "@/app/components/auth-form";
+
+export const metadata: Metadata = {
+  title: "เข้าสู่ระบบ",
+};
+
+export default function LoginPage() {
+  return (
+    <main className="auth-page">
+      <AuthForm mode="login" />
+    </main>
+  );
+}

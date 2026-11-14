@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="71" y1="20" x2="722" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4F7FC"/>
+      <stop offset="1" stop-color="#DEE8F3"/>
+    </linearGradient>
+    <linearGradient id="board" x1="176" y1="172" x2="629" y2="335" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#374965"/>
+      <stop offset="1" stop-color="#17263E"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h800v480H0z"/>
+  <circle cx="636" cy="86" r="128" fill="#D1DFF0" opacity=".55"/>
+  <circle cx="160" cy="418" r="135" fill="#DAE6F2" opacity=".65"/>
+  <ellipse cx="398" cy="354" fill="#192C47" opacity=".12" rx="263" ry="24"/>
+  <path d="m172 168 444-26a21 21 0 0 1 22 20l8 128a21 21 0 0 1-20 22l-444 26a21 21 0 0 1-22-20l-8-128a21 21 0 0 1 20-22Z" fill="url(#board)" stroke="#72849E" stroke-width="3"/>
+  <path d="m196 184 398-23 6 98-398 23-6-98Z" fill="#182A43"/>
+  <g fill="#536782" stroke="#8296B0" stroke-width="1">
+    <rect x="207" y="191" width="37" height="25" rx="5" transform="rotate(-3.3 207 191)"/>
+    <rect x="252" y="189" width="37" height="25" rx="5" transform="rotate(-3.3 252 189)"/>
+    <rect x="297" y="186" width="37" height="25" rx="5" transform="rotate(-3.3 297 186)"/>
+    <rect x="342" y="184" width="37" height="25" rx="5" transform="rotate(-3.3 342 184)"/>
+    <rect x="387" y="181" width="37" height="25" rx="5" transform="rotate(-3.3 387 181)"/>
+    <rect x="432" y="178" width="37" height="25" rx="5" transform="rotate(-3.3 432 178)"/>
+    <rect x="477" y="176" width="37" height="25" rx="5" transform="rotate(-3.3 477 176)"/>
+    <rect x="522" y="173" width="37" height="25" rx="5" transform="rotate(-3.3 522 173)"/>
+    <rect x="567" y="170" width="30" height="25" rx="5" transform="rotate(-3.3 567 170)"/>
+    <rect x="211" y="223" width="47" height="25" rx="5" transform="rotate(-3.3 211 223)"/>
+    <rect x="266" y="220" width="37" height="25" rx="5" transform="rotate(-3.3 266 220)"/>
+    <rect x="311" y="217" width="37" height="25" rx="5" transform="rotate(-3.3 311 217)"/>
+    <rect x="356" y="214" width="37" height="25" rx="5" transform="rotate(-3.3 356 214)"/>
+    <rect x="401" y="212" width="37" height="25" rx="5" transform="rotate(-3.3 401 212)"/>
+    <rect x="446" y="209" width="37" height="25" rx="5" transform="rotate(-3.3 446 209)"/>
+    <rect x="491" y="206" width="37" height="25" rx="5" transform="rotate(-3.3 491 206)"/>
+    <rect x="536" y="203" width="57" height="25" rx="5" transform="rotate(-3.3 536 203)"/>
+  </g>
+  <path d="m219 258 363-21 2 17-363 21-2-17Z" fill="#3C89F4" opacity=".82"/>
+  <path d="m222 285 355-21 2 17-355 21-2-17Z" fill="#6BA9FF" opacity=".75"/>
+</svg>

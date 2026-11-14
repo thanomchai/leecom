@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="72" y1="20" x2="718" y2="466" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4F6FC"/>
+      <stop offset="1" stop-color="#DCE6F3"/>
+    </linearGradient>
+    <linearGradient id="case" x1="304" y1="68" x2="520" y2="405" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#35445E"/>
+      <stop offset="1" stop-color="#101D33"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="333" y1="104" x2="494" y2="349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#203859"/>
+      <stop offset="1" stop-color="#14243D"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h800v480H0z"/>
+  <circle cx="626" cy="111" r="130" fill="#CEDCF1" opacity=".55"/>
+  <circle cx="150" cy="403" r="135" fill="#DAE6F3" opacity=".7"/>
+  <ellipse cx="408" cy="409" fill="#192B46" opacity=".13" rx="151" ry="22"/>
+  <rect x="295" y="58" width="222" height="348" rx="22" fill="url(#case)" stroke="#70819A" stroke-width="3"/>
+  <rect x="317" y="78" width="177" height="301" rx="13" fill="url(#glass)" stroke="#7287A2" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M329 90h152v267H329z" fill="#14253F" opacity=".5"/>
+  <circle cx="404" cy="170" r="48" stroke="#68B4FF" stroke-opacity=".8" stroke-width="3"/>
+  <circle cx="404" cy="170" r="31" fill="#2388FF" fill-opacity=".12" stroke="#7BC2FF" stroke-opacity=".7" stroke-width="2"/>
+  <circle cx="404" cy="170" r="5" fill="#83CAFF"/>
+  <path d="m404 140 10 20-10 10-10-10 10-20Zm30 30-20 10-10-10 10-10 20 10Zm-30 30-10-20 10-10 10 10-10 20Zm-30-30 20-10 10 10-10 10-20-10Z" fill="#79BFFF" opacity=".6"/>
+  <circle cx="404" cy="280" r="48" stroke="#5CA9FA" stroke-opacity=".7" stroke-width="3"/>
+  <circle cx="404" cy="280" r="30" fill="#2388FF" fill-opacity=".11" stroke="#7BC2FF" stroke-opacity=".65" stroke-width="2"/>
+  <circle cx="404" cy="280" r="5" fill="#83CAFF"/>
+  <path d="M468 113h12M468 125h12" stroke="#A8C9EC" stroke-linecap="round" stroke-width="3"/>
+  <circle cx="497" cy="384" r="4" fill="#70B9FF"/>
+</svg>
